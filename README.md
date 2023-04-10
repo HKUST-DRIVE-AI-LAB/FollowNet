@@ -22,10 +22,7 @@ Pretrained models are stored in `trained_model/` folder.
 ## Dataset distribution
 Below is the average time gap during car following (s)
 
-<div  align="center">    
 ![](results/time_gap.jpg)
-</div>
-
 
 
 
