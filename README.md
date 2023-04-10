@@ -25,17 +25,15 @@ Below is the average time gap during car following (s)
 <br>
 ![](results/time_gap.jpg)
 <br>
-## Collsion rate
 
+## Collsion rate
 <br>
 ![](results/Collision.jpg)
 <br>
 ## MSE of spacing
-
 <br>
 ![](results/mse.jpg)
 <br>
-
 
 ## Contact
 meixin@ust.hk
