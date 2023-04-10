@@ -22,13 +22,14 @@ Pretrained models are stored in `trained_model/` folder.
 
 ## Dataset distribution
 Below is the average time gap during car following (s)
-<br>
+
 ![](results/time_gap.jpg)
-<br>
+
 
 ## Collsion rate
 
 ![](results/Collision.jpg)
+
 
 ## MSE of spacing
 
@@ -37,6 +38,7 @@ Below is the average time gap during car following (s)
 
 ## Contact
 meixin@ust.hk
+
   xchen595@connect.hkust-gz.edu.cn
 
 ## 📎 References
