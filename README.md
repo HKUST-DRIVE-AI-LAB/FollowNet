@@ -23,7 +23,7 @@ Pretrained models are stored in `trained_model/` folder.
 ## Dataset distribution
 <br>
 
-![](results/Duration.pdf)
+![](results/Duration.jpg)
 
 <br>
 
