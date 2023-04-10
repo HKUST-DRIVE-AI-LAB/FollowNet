@@ -24,7 +24,7 @@ Below is the average time gap during car following (s)
 
 ![](results/time_gap.jpg)
 
-## Evaluation Metrics
+## ✔️ Evaluation Metrics
 
 Collsion rate
 
@@ -35,7 +35,7 @@ Collsion rate
 ![](results/mse.jpg)
 
 
-## Contact
+## 📭Contact
 meixin@ust.hk
 
   xchen595@connect.hkust-gz.edu.cn
