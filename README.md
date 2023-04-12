@@ -18,7 +18,7 @@ Extracted car-following events are stored in `data/` folder. The colab tutorial 
 ## 🛠 Quick Start 
 Run the colab notebook directly without other environment setup🤣! Details are in the notebook below. 
 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jB-eM9A1N1q5mPv3TjZPx6drezvURtqD?usp=share_link) 
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jB-eM9A1N1q5mPv3TjZPx6drezvURtqD?usp=share_link) 
 
 ## 📚 Pretrained Models
 Pretrained models are stored in `trained_model/` folder. 
