@@ -22,12 +22,12 @@ Run the colab notebook directly without other environment setup🤣! Details are
 Pretrained models are stored in `trained_model/` folder. 
 
 
-## 📊 Dataset distribution
+## 📈 Dataset distribution
 Below is the average time gap during car following (s). For more results stored in `results/` folder.
 
 ![](results/time_gap.jpg)
 
-## ✔️ Evaluation Metrics
+## 📊 Evaluation Metrics
 
 Collsion rate
 
