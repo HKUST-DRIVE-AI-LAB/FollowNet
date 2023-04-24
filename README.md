@@ -30,7 +30,7 @@ Below is the average time gap during car following (s). For more results stored 
 ![](results/time_gap.jpg)
 
 ## 📊 Evaluation Metrics
-
+![](results/tables.png)
 Collsion rate
 
 ![](results/Collision.jpg)
