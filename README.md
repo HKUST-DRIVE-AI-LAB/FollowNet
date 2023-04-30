@@ -2,7 +2,8 @@
 # FollowNet: A Comprehensive Benchmark for Car-Following Behavior Modeling
 Source code for the following paper:
 
-Chen, Xianda, et al. "FollowNet: A Comprehensive Benchmark for Car-Following Behavior Modeling." arXiv preprint arXiv:.
+Chen, Xianda, et al. "FollowNet: A Comprehensive Benchmark for Car-Following Behavior Modeling." 
+
 
 ## 📝Description
 This notebook demonstrates how to achieve the car following models from traditonal models to data driven models. Motivation: given extracted car following events from five open datasets with the same data formate and train the car follow models. Author: Chen Xianda.
