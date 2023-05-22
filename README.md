@@ -33,11 +33,8 @@ Below is the average time gap during car following (s). For more results stored 
 ## 📊 Evaluation Metrics
 ![](results/tables.png)
 Collsion rate 
-
 ![](results/collision.png)
-
  MSE of spacing
-
 ![](results/mse.png)
 
 
