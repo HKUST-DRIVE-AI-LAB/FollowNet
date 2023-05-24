@@ -39,6 +39,7 @@ Collsion rate
 
  MSE of spacing
  
+ 
 ![](results/mse.png)
 
 
