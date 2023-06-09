@@ -52,7 +52,13 @@ If you use extracted car following data / FollowNet in your own work, please cit
 
 
 ```latex
-@article{****}
+@misc{chen2023follownet,
+      title={FollowNet: A Comprehensive Benchmark for Car-Following Behavior Modeling}, 
+      author={Xianda Chen and Meixin Zhu and Kehua Chen and Pengqin Wang and Hongliang Lu and Hui Zhong and Xu Han and Yinhai Wang},
+      year={2023},
+      eprint={2306.05381},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
