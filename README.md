@@ -3,6 +3,7 @@
 Source code for the following paper:
 
 Chen, Xianda, et al. "FollowNet: A Comprehensive Benchmark for Car-Following Behavior Modeling." 
+[https://www.nature.com/articles/s41597-023-02718-7](https://www.nature.com/articles/s41597-023-02718-7)
 
 
 ## 📝Description
